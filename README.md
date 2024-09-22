@@ -1,4 +1,4 @@
-# Country List
+![CountryInfo](https://github.com/user-attachments/assets/89dc97ce-ef70-4ef7-be3f-49d6dd1daa3c)# Country List
 
 ## Front-end
 ### Tech Stack:
@@ -108,3 +108,8 @@ user:~/CountryInfo/frontend/src/$ npm run dev
 ```
 
 The frontend should start on localhost:3000
+
+## Demo
+![CountryInfoGif](https://github.com/user-attachments/assets/06518eaf-a2e5-4ed5-a23d-79e232606793)
+
+
