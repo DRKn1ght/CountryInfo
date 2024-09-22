@@ -1,4 +1,4 @@
-![CountryInfo](https://github.com/user-attachments/assets/89dc97ce-ef70-4ef7-be3f-49d6dd1daa3c)# Country List
+# Country List
 
 ## Front-end
 ### Tech Stack:
