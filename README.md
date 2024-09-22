@@ -27,7 +27,6 @@
 ### Endpoints
 * Base URL: localhost:5000/api/
 
-* 
 1. #### Return a list of available countries
 
 ```bash
